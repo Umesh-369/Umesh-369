@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Certified Java Developer with hands-on experience in Full Stack Development and in Artificial Intelligence &Machine Learning.<br>NPTEL Certified and Failathon 2025 Winner, with proven ability to work in team-based projects and deliver practical, real-world solutions.<br>Currently enhancing expertise in Machine Learning and actively seeking internship opportunities to apply technical skills and gain industry experience.
+Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning, with
+hands-on experience in full-stack development, Generative AI, and machine learning. Skilled in building AI-powered
+applications using real-world data, with a strong focus on developing scalable and efficient solutions
 
 
 ## 🌐 Socials:
