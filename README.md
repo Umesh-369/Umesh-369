@@ -47,10 +47,7 @@ umesh@vishnu-institute
 -----------------------
 Name       : Umesh Sai Hanuma Prasad Syamala
 Degree     : B.Tech, CSE (AI & ML)
-College    : Vishnu Institute of Technology
-CGPA       : 9.59 / 10
-Location   : Bhimavaram, Andhra Pradesh, India
-Uptime     : Aug 2024 — Present
+Location   : Mangalagiri, Andhra Pradesh, India
 
 Contact
 -----------------------
