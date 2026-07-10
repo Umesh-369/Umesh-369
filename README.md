@@ -4,8 +4,11 @@
 I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
 </p>
 
+<table>
+<tr>
+<td valign="top">
+
 <pre>
-                                                                    
                             I-{(|)}-+l"'                            
                           lnwbbbqQJLZOUcvt>                         
                         ~rbB%&MohahM*aMahkpu~.                      
@@ -36,11 +39,10 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
    I|\ft|)11))))1111((1))()(((|fx\\/t/\|\\||(()((|()())(||\\tjnf?   
 </pre>
 
-<table>
-<tr>
-<td width="45%" valign="top">
+</td>
+<td valign="top">
 
-```
+<pre>
 umesh@vishnu-institute
 -----------------------
 Name       : Umesh Sai Hanuma Prasad Syamala
@@ -49,19 +51,30 @@ College    : Vishnu Institute of Technology
 CGPA       : 9.59 / 10
 Location   : Bhimavaram, Andhra Pradesh, India
 Uptime     : Aug 2024 — Present
-```
 
-</td>
-<td width="55%" valign="top">
-
-```
 Contact
 -----------------------
-Phone      : +91-9059060100
 Email      : s.umeshsaihanumaprasad@gmail.com
 LinkedIn   : linkedin.com/in/umeshsaihanumaprasad
 GitHub     : github.com/Umesh-369
-```
+
+Languages
+-----------------------
+Programming : Python, Java, JavaScript, TypeScript, SQL
+Core CS     : DSA, OOP, DBMS
+
+GenAI Stack
+-----------------------
+Frameworks  : LangChain, Gemini API, FAISS, Ollama, OpenCV
+Libraries   : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Runtimes    : React, Flask, FastAPI, Node.js, Electron
+
+Awards
+-----------------------
+🥇 Winner, Failathon 2.0 (2025) — 400+ participants
+☕ NPTEL Elite Gold — Java (IIT Kharagpur), Top 5%
+📜 Microsoft & LinkedIn — Career Essentials in GenAI
+</pre>
 
 </td>
 </tr>
