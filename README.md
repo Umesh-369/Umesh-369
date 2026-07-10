@@ -68,7 +68,6 @@ Runtimes    : React, Flask, FastAPI, Node.js, Electron
 
 Awards
 -----------------------
-🥇 Winner, Failathon 2.0 (2025) — 400+ participants
 ☕ NPTEL Elite Gold — Java (IIT Kharagpur), Top 5%
 📜 Microsoft & LinkedIn — Career Essentials in GenAI
 </pre>
