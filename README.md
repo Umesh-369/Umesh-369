@@ -43,7 +43,7 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
 <td valign="top">
 
 <pre>
-umesh@vishnu-institute
+Umesh...
 -----------------------
 Name       : Umesh Sai Hanuma Prasad Syamala
 Degree     : B.Tech, CSE (AI & ML)
