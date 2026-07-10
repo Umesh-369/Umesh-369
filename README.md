@@ -1,122 +1,133 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Umesh 👋</h1>
+
+<p align="center">
+I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
+</p>
+
+<pre>
+                                                                    
+                            I-{(|)}-+l"'                            
+                          lnwbbbqQJLZOUcvt>                         
+                        ~rbB%&MohahM*aMahkpu~.                      
+                      "npM$B8%%%$$$$$$%&MMWWaJ/`                    
+                     :J8$B@BWhpkao*##M8$$$BWWW&Q;                   
+                     Y$$$@&Qr\()))(\tjv0a&%BB$$$n                   
+                     Y$$$$Z]+-_+~+++___?{/vb$$$$r                   
+                     !M$$W\_(fjf)]--?{fxnxtc%$@X:                   
+                      r@$ci)nzL0Lu(1rCmZQYv|b$q.                    
+                      :vk]!1trJrnt_~\vxcYux[cq]                     
+                      ?[|<I>~-_-->l!_[]]]?__(t?                     
+                      l}1-~++~+-_[]?({]+_-[}t\;                     
+                       i{\?]}{|/zpmQhQj\1)(tz[.                     
+                       .!\x/)tmZJUXXLOqpujXO(^                      
+                         ;JCvnJjfxnuunxYzCdU'                       
+                          ~QOLwCzJwwCY0wObO:                        
+                           {wo*haao#MW&Woq[                         
+                          -1\Yqa&%B$B&#pUjx?                        
+                         ^nr{\trcXXJUXvrf/UuI                       
+                        ^+-vt((\/tffrrfttrC|1"                      
+                    ';>~+?-}ur\\\||\tftfnUj)()]>:^.                 
+               .`"I>-}\1]]-_{xvjft/tjjxzvft/|/\/)[-~I^              
+            `,l<+][?[}1}[]??]}tcrxrrjfxf/t/\\|))|)){{[->:'          
+        `,l~_-}}[{-?[}}{)[?+?nwhC/(jzXt(/\()\(111))11)|(1[+I`       
+      :>+?[}]}{}}{][{)1{({[fCkZCJufYLmpv)}{|\\\((()))||(())1}_;     
+    '>?]?}}}{){{11{}1()1|tvUvxuuzvrnnvYLUx|t((||(|||()))11)11()i    
+   .-1|(1{{)()1{}{}{)(11(||||(/rrt/ttt/truj/|((((|(|||((||((|tj(:   
+   I|\ft|)11))))1111((1))()(((|fx\\/t/\|\\||(()((|()())(||\\tjnf?   
+</pre>
 
 <table>
 <tr>
-<td>
+<td width="45%" valign="top">
 
 ```
-                                                                                          
-                                                                                          
-                                  `I<_}1{}{{}?~!IlI`                                      
-                               .<|cLLZZOpkdZOQQ0JYJXr([?<I:`                              
-                              <uwbhooah*opwmLJJXCqmdbwLLC0CLx+,                           
-                          `I}rbW%%B@%&8M*obqqqwd8WhhhoakkkkkbqQ(^                         
-                        .]|Xb8$$$$$@@B%%8##%@8&B$BM#%$B%WMWWMM#aZui                       
-                       !uJZhW$@$$$@$@@BB%B$$$$$$$$$$$$@B@%&MMMM##Ma0)+"                   
-                     `[b**8@$$$@%%%@$$$$$$@@@@@@@@@@@@@@B%B$$$$$@%8Mhkb}                  
-                    !xZ%$$$$@$@%B$$$B%8%B$$$$$$$$$$$$$$@@$$$$$$B%%%%&W&@u`                
-                   'YWW@@@$BB$$$$WaqQCJLOZZwwwqpbkbb*W@$$$BBB@BBB$$$$$%8%qI               
-                  .X%$$$$$$$$$BoQvrt\|())1)1)((\tfjrxcUZoB$$$$$$$$$$$$$$&$x               
-                  :M@B$$$$$$$%qx{[}}}}[]??-----?][1)1{1)\nYOd*W8$$$$$$$$%%f               
-                   X$@$$$$$@@oc}--]]]]]??----_+__--?-?][}}{)|jcLM$@$$$$$8$(               
-                   "q%@$$$$@$q(_>>~~<<>i!!i><~<<~<<<<i><~-]}11/xw$@$$$@B$m;               
-                    /$B$$$@$h(++}nYL0ZZQYu|1[--__?}1/cC0ZwwZ0Xnxn#$@$@BM(`                
-                    ^0$%B@@81l~{/tjxruYOqwCcxf//\ruzObhpLzvcuuux|0$BB%$]                  
-                     ,h$$B@0:!_1/uYX0ZqZQOCYx|{}1fz0mq0OkbbCOQv\}j$@$$O                   
-                      !Ub$$\"i]/ucY\zakuxLCzj{+<_(cLLCxfqkJfL0Uj{-k$kU^                   
-                     "\({0a<:I>+_-)ft////|()]+il<]1\\\fffrjxf){[?~Uqtv+                   
-                     [/}_{r>::I!>~__-??-_-_~<lll<-?[}?-]}}[?-_++_+jj)r1                   
-                     ?}+}|1+l>~~~<>>ii>~_]~l;lil><+]{[_~~~+++_][}]/n}\l                   
-                     ^[-/}{}~_++++++_+_]{?!_{[++?(|??([?__-?][}{1{uv{[                    
-                      ;}-{|/--??[[[[[}{[]}r0dQnxXbbCj1[}}}[}{11)1/Q|1i                    
-                       I>-|r)][[}{11(|tfxJboM$*q&88*qXxf|(||\\|/rUQ(].                    
-                        !_}ux\\1}))(fQMhOZwOOZUzQqdbah#%bcfffjcC0qu-;                     
-                         '^_UXUzf\\\cWkqqJXYYXUJCCCCQpbd%mrnvJdwqY`                       
-                            tZC0QcxfvZzfrftt({)))\ruvvrnQXcUZbbkal                        
-                            ^XZLmOJcX0Cn|tcCZdddbpOYuxxY0UUZbbaM}                         
-                             "xpZO0CObhpQYcz0db*ZLczYZdkoqmpaW#+                          
-                               xoodboMakkwqmZ0mbmbbka#WMWkhMWa} .                         
-                               !rp&@B&M##W%$%$$$$$$$$$%BB%@M0uI                           
-                              "+1/zqMB$$$$$$@$@B@@@$$$$$B#mYnf(<                          
-                             >a/]//jcQpaM%B$$$$$$$$%%&*d0Yvxx|Od~                         
-                            "1$f_(\/ffrxcJQOO0qbdmO0QJXvuxrrr|Zk(>                        
-                           I><wU-)(\//ttfjrxxrxxxuvccvnrjffjj|qm}1~                       
-                          :-~>{qu(||||\ttjjrxxfruvuunxjjffjjjcar}1t;                      
-                       .`"+-__<)OXf\|(|\////tjrrjjjjrjffffjxXhz(){t),'                    
-                  '";>~~~+]????+)CYxt\\/t//\((\||/frjfffjxvJqX)||)(\/|{+l;"'              
-              .`"l+-[(()[-]]?[]+?1vJXnjttffft\//tjrxrjfrvXCCr\tf/\|/f|/f/[?_+<!,'         
-        .`^,:;>+~{[?|j|}1][]]?<~}}}fzCYurjjffftfjjrrrruYCJv\tjff/f|/r\|/f\(1[]}}]+!:'     
-    .'"I!i>~?[1_]1+]\\{1)[[[]?__[[}{|jvvvvvnxrffjxxxnzJXu/\fjrft/\\j\1(//f/))1]??[}[]~!:` 
-.^,Ii<++-_[1(]_<1}-](([[{{-][]??][[{(]/zujxvvuvvvuxjjnj\||frf/\\/\//(|(11)/(1/\|11}}}{{}?~
->_+_-{}[]?]{[-~+)[?])}][{()[[]]-?[[[|CM$&Of//tf///ff\(|\/fjt/\\|)|f(|){{){1()((|)(|\\|((1{
-}[_?{1{{{[{(}?_?}]]})1))(|f[]?-_<~}X#$hp*WQn([}tJdbb*Q\|ft/||((((jt|(|(||1(||(111){}{(tt/t
-]-[{}1{{{}})]??[}1(|)){{{{\|___?|Y*$ohb0CJJUv}uLQQ0whBon){11{{1)\f//tt\(((\\|)(|)1)|/t\(|(
-[[)}}{{{}}1{}1{1{{(((()))(\j[\Xw#hOwqYJCJQCLzuYYUCLLLw#%wx)}}11|f|\\\t/\/\(((((((\//\(|\))
-[{)))1))(|((1)}{}1((|(1)(\tfxCQQYvrfcYnvXzULruncvuucXYULwbqUf1{xf|\||\\|/\\/\/|\/|(|()(|()
-|||\\){}{111){{1{)|\|))))(//////tttt|jcjxvXrtjtjjrjxxrrrrnY0mJnnt/\|||\\(((\\\///\\||())()
-((()))){{}{1{{11{)\\()1)((|\|\\\\\\\\)fcjjufftfrftfrt/tffjjjjrjt/\\\||||((|\||(||\\\/t/\\/
-(||()(()1{{1}}1))(\\)11))(|\||||\|||\/|fvvn\t|\/\tf////\//tt/\\\\|||||||||(\\|||(((|(|((|/
-))))(((|||)))()()|\\)1)((|(((((||||||\t\jcn/ttftttjft/\\\\\////\\\||((((|||/\\\\((||))(||(
+umesh@vishnu-institute
+-----------------------
+Name       : Umesh Sai Hanuma Prasad Syamala
+Degree     : B.Tech, CSE (AI & ML)
+College    : Vishnu Institute of Technology
+CGPA       : 9.59 / 10
+Location   : Bhimavaram, Andhra Pradesh, India
+Uptime     : Aug 2024 — Present
 ```
 
 </td>
-<td>
+<td width="55%" valign="top">
 
 ```
-umesh@vishnu-tech
-------------------
-OS: Windows 11, Android 14
-Host: Vishnu Institute of Technology, Bhimavaram
-Kernel: B.Tech CSE (AI & ML), CGPA 9.59
-Uptime: 3+ years building AI/ML products
-IDE: VS Code, Cursor
-Languages.Programming: Python, Java, JavaScript/TypeScript, Dart, C
-Languages.Frameworks: FastAPI, LangChain/LangGraph, Next.js, Flask, Spring
-Languages.AI/ML: PyTorch, TensorFlow, Keras, scikit-learn, Gemini API
-Hobbies.Software: 3D web experiences, RL simulations, multi-agent systems
-Hobbies.Hardware: Laptop tinkering & troubleshooting
-Achievements: 1st Place - Failathon 2.0 (400+ participants)
-                          Technical Mentor - Failathon 3.0
-                          NPTEL Elite Gold - Java (Top 5% nationally)
-Contact.Email: s.umeshsaihanumaprasad@gmail.com
-Contact.LinkedIn: linkedin.com/in/umesh-sai-hanuma-prasad-syamala-616555326
+Contact
+-----------------------
+Phone      : +91-9059060100
+Email      : s.umeshsaihanumaprasad@gmail.com
+LinkedIn   : linkedin.com/in/umeshsaihanumaprasad
+GitHub     : github.com/Umesh-369
 ```
 
 </td>
 </tr>
 </table>
 
-# 💫 About Me:
-Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning, with
-hands-on experience in full-stack development, Generative AI, and machine learning. Skilled in building AI-powered
-applications using real-world data, with a strong focus on developing scalable and efficient solutions.
+---
 
-- 🎓 B.Tech CSE (AI & ML) student at **Vishnu Institute of Technology**, Bhimavaram, Andhra Pradesh — CGPA **9.59**
-- 🔬 Research Intern with **IIT Ropar's Vicharanashala** programme (Annam.ai ecosystem)
-- ☁️ Completed an **AI-ML Virtual Internship** (EduSkills / AICTE, supported by Google for Developers)
-- 🏆 **1st Place — Failathon 2.0** (400+ participants) · Technical Mentor at **Failathon 3.0**
-- ☕ **NPTEL Elite Gold** certification in Java (Top 5% nationally)
-- 🛠️ Building automation tools for **DS. Ranganaikulu & Co.**, a CA and audit firm
-- 🤝 Active contributor to the **ViBe** learning platform (vicharanashala/vibe) — proctoring integrity / face identity verification
+### 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-sai-hanuma-prasad-syamala-616555326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.umeshsaihanumaprasad@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### What I'm Building
-
-| Project | Description |
-|---|---|
-| **FlavorForge AI** | Gemini-powered recipe generator with a 3D cinematic UI — Next.js 15, React Three Fiber, GSAP |
-| **AgriSense** | IoT crop monitoring — ESP32, Firebase, Gemini API, ResNet-50 crop disease detection |
-| **NeuroNotes** | RAG-based study platform — LangGraph, Gemini API, FAISS/ChromaDB, live web search |
-| **Tenali** | Adaptive learning platform — Next.js, FastAPI, MongoDB, adaptive difficulty engine |
-| **InterviewAI** | AI interview assistant — FastAPI, Ollama/Llama 3.2, Whisper STT, pdfplumber |
-| **ReviewGuard AI** | Fake review detection — TF-IDF + Logistic Regression, 40K+ reviews |
-| **ATS Resume Analyzer** | Flask + Gemini API semantic resume-to-JD matching |
+I'm a second-year CSE (AI & ML) undergraduate currently chasing the intersection of **generative AI** and **practical software engineering**. I like building things that leave the notebook and actually run — agents with real filesystem/shell access, RAG pipelines that hold up on messy documents, and tools people can install and use.
 
 ---
 
-<sub>⭐️ Ping me if you want to collaborate on RL/simulation, multi-agent systems, or cinematic 3D AI product builds!</sub>
+### 🛠️ Tech Stack
+
+**Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Core CS:** Data Structures · Algorithms · OOP · DBMS
+
+**AI / GenAI:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) FAISS · Ollama ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Libraries:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) Matplotlib · Seaborn
+
+**Frameworks & Runtimes:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) Express ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) Google Colab ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **[WayBig](https://github.com/Umesh-369/WAYBIG)** <br>Jul 2026 | Electron, React, TypeScript, Node.js, Gemini API | Cross-platform desktop AI agent with an autonomous Gemini function-calling loop giving direct file system & shell access. Safety-first architecture with human-in-the-loop confirmation gates, diff previews, and audit logging for destructive actions. |
+| **NeuroNotes** <br>Mar 2026 | RAG, LangGraph, Gemini API, FAISS/ChromaDB | Full-stack AI notebook platform using RAG for context-aware querying across documents — improved response relevance, reduced hallucinations. LangGraph-based agent for multi-turn conversational interactions. |
+| **InterviewAI** <br>Apr 2026 | Python, FastAPI, Ollama (Llama 3.2), pdfplumber | Fully local AI-powered technical interview simulator generating resume-aware questions via Llama 3.2 (3B) — zero cloud APIs, zero data leaks. FastAPI backend with session management, PDF parsing, and post-interview hire/no-hire reports. |
+
+---
+
+### 💼 Experience
+
+**AI-ML Virtual Intern** — EduSkills (AICTE – National Internship Portal) · Apr 2026 – Jun 2026
+Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by Google for Developers under the India Edu Program. Hands-on experience in model development, data analysis, and generative AI tools.
+
+---
+
+### 🏆 Activities & Awards
+
+- 🥇 **Winner, Failathon 2.0 (2025)** — 1st place among 400+ participants for innovation and resilience in project development
+- ☕ **NPTEL Elite Gold** — Programming in Java (IIT Kharagpur), 95% consolidated score, Top 5% nationwide
+- 📜 **Microsoft & LinkedIn Certified** — Career Essentials in Generative AI
+- 👥 **Member, Mathematics Club** — organizing academic events and student engagement activities
+
+---
+
+### 🎓 Education
+
+| Institution | Degree | Score | Duration |
+|---|---|---|---|
+| Vishnu Institute of Technology (Autonomous), Bhimavaram | B.Tech, CSE (AI & ML) | CGPA: 9.59/10 | Aug 2024 – Present |
+| Sri Chaitanya College, Vijayawada | Intermediate (MPC) | 96% | Completed 2024 |
+
+---
+
+### 📫 Connect with me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.umeshsaihanumaprasad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeshsaihanumaprasad)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Umesh-369)
