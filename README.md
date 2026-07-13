@@ -1,16 +1,80 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Umesh Sai Hanuma Prasad Syamala — animated profile banner" src="dark.svg" width="100%">
-</picture>
-
-</div>
+<h1 align="center">Hi there, I'm Umesh 👋</h1>
 
 <p align="center">
 I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
 </p>
+
+<table>
+<tr>
+<td valign="top">
+
+<pre>
+                            I-{(|)}-+l"'                            
+                          lnwbbbqQJLZOUcvt>                         
+                        ~rbB%&MohahM*aMahkpu~.                      
+                      "npM$B8%%%$$$$$$%&MMWWaJ/`                    
+                     :J8$B@BWhpkao*##M8$$$BWWW&Q;                   
+                     Y$$$@&Qr\()))(\tjv0a&%BB$$$n                   
+                     Y$$$$Z]+-_+~+++___?{/vb$$$$r                   
+                     !M$$W\_(fjf)]--?{fxnxtc%$@X:                   
+                      r@$ci)nzL0Lu(1rCmZQYv|b$q.                    
+                      :vk]!1trJrnt_~\vxcYux[cq]                     
+                      ?[|<I>~-_-->l!_[]]]?__(t?                     
+                      l}1-~++~+-_[]?({]+_-[}t\;                     
+                       i{\?]}{|/zpmQhQj\1)(tz[.                     
+                       .!\x/)tmZJUXXLOqpujXO(^                      
+                         ;JCvnJjfxnuunxYzCdU'                       
+                          ~QOLwCzJwwCY0wObO:                        
+                           {wo*haao#MW&Woq[                         
+                          -1\Yqa&%B$B&#pUjx?                        
+                         ^nr{\trcXXJUXvrf/UuI                       
+                        ^+-vt((\/tffrrfttrC|1"                      
+                    ';>~+?-}ur\\\||\tftfnUj)()]>:^.                 
+               .`"I>-}\1]]-_{xvjft/tjjxzvft/|/\/)[-~I^              
+            `,l<+][?[}1}[]??]}tcrxrrjfxf/t/\\|))|)){{[->:'          
+        `,l~_-}}[{-?[}}{)[?+?nwhC/(jzXt(/\()\(111))11)|(1[+I`       
+      :>+?[}]}{}}{][{)1{({[fCkZCJufYLmpv)}{|\\\((()))||(())1}_;     
+    '>?]?}}}{){{11{}1()1|tvUvxuuzvrnnvYLUx|t((||(|||()))11)11()i    
+   .-1|(1{{)()1{}{}{)(11(||||(/rrt/ttt/truj/|((((|(|||((||((|tj(:   
+   I|\ft|)11))))1111((1))()(((|fx\\/t/\|\\||(()((|()())(||\\tjnf?   
+</pre>
+
+</td>
+<td valign="top">
+
+<pre>
+Umesh...
+-----------------------
+Name       : Umesh Sai Hanuma Prasad Syamala
+Degree     : B.Tech, CSE (AI & ML)
+Location   : Mangalagiri, Andhra Pradesh, India
+
+Contact
+-----------------------
+Email      : s.umeshsaihanumaprasad@gmail.com
+LinkedIn   : linkedin.com/in/umeshsaihanumaprasad
+GitHub     : github.com/Umesh-369
+
+Languages
+-----------------------
+Programming : Python, Java, JavaScript, TypeScript, SQL
+Core CS     : DSA, OOP, DBMS
+
+GenAI Stack
+-----------------------
+Frameworks  : LangChain, Gemini API, FAISS, Ollama, OpenCV
+Libraries   : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Runtimes    : React, Flask, FastAPI, Node.js, Electron
+
+Awards
+-----------------------
+☕ NPTEL Elite Gold — Java (IIT Kharagpur), Top 5%
+📜 Microsoft & LinkedIn — Career Essentials in GenAI
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,12 +134,8 @@ Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by
 
 ---
 
-<div align="center">
-
 ### 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.umeshsaihanumaprasad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeshsaihanumaprasad)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Umesh-369)
-
-</div>
