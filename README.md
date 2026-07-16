@@ -42,7 +42,7 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
 
 ### 💼 Experience
 
-**Summer Research Intern** — VLED Lab, IIT Ropar · May 2026 – Jul 2026
+**Summer Intern** — VLED Lab, IIT Ropar · May 2026 – Jul 2026
 Contributing to open-source projects involving AI and the MERN stack.
 
 **AI-ML Virtual Intern** — EduSkills (AICTE – National Internship Portal) · Apr 2026 – Jun 2026
