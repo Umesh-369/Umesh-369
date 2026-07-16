@@ -58,14 +58,6 @@ Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by
 
 ---
 
-### 🎓 Education
-
-| Institution | Degree | Score | Duration |
-|---|---|---|---|
-| Vishnu Institute of Technology (Autonomous), Bhimavaram | B.Tech, CSE (AI & ML) | CGPA: 9.59/10 | Aug 2024 – Present |
-| Sri Chaitanya College, Vijayawada | Intermediate (MPC) | 96% | Completed 2024 |
-
----
 
 ### 📫 Connect with me
 
