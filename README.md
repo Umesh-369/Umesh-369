@@ -4,13 +4,83 @@
 I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Umesh's neofetch-style profile" src="./assets/dark.svg" width="100%">
-  </picture>
-</p>
+<table>
+<tr>
+<td valign="top">
+
+<pre>
+                            I-{(|)}-+l"'                            
+                          lnwbbbqQJLZOUcvt>                         
+                        ~rbB%&MohahM*aMahkpu~.                      
+                      "npM$B8%%%$$$$$$%&MMWWaJ/`                    
+                     :J8$B@BWhpkao*##M8$$$BWWW&Q;                   
+                     Y$$$@&Qr\()))(\tjv0a&%BB$$$n                   
+                     Y$$$$Z]+-_+~+++___?{/vb$$$$r                   
+                     !M$$W\_(fjf)]--?{fxnxtc%$@X:                   
+                      r@$ci)nzL0Lu(1rCmZQYv|b$q.                    
+                      :vk]!1trJrnt_~\vxcYux[cq]                     
+                      ?[|<I>~-_-->l!_[]]]?__(t?                     
+                      l}1-~++~+-_[]?({]+_-[}t\;                     
+                       i{\?]}{|/zpmQhQj\1)(tz[.                     
+                       .!\x/)tmZJUXXLOqpujXO(^                      
+                         ;JCvnJjfxnuunxYzCdU'                       
+                          ~QOLwCzJwwCY0wObO:                        
+                           {wo*haao#MW&Woq[                         
+                          -1\Yqa&%B$B&#pUjx?                        
+                         ^nr{\trcXXJUXvrf/UuI                       
+                        ^+-vt((\/tffrrfttrC|1"                      
+                    ';>~+?-}ur\\\||\tftfnUj)()]>:^.                 
+               .`"I>-}\1]]-_{xvjft/tjjxzvft/|/\/)[-~I^              
+            `,l<+][?[}1}[]??]}tcrxrrjfxf/t/\\|))|)){{[->:'          
+        `,l~_-}}[{-?[}}{)[?+?nwhC/(jzXt(/\()\(111))11)|(1[+I`       
+      :>+?[}]}{}}{][{)1{({[fCkZCJufYLmpv)}{|\\\((()))||(())1}_;     
+    '>?]?}}}{){{11{}1()1|tvUvxuuzvrnnvYLUx|t((||(|||()))11)11()i    
+   .-1|(1{{)()1{}{}{)(11(||||(/rrt/ttt/truj/|((((|(|||((||((|tj(:   
+   I|\ft|)11))))1111((1))()(((|fx\\/t/\|\\||(()((|()())(||\\tjnf?   
+</pre>
+
+</td>
+<td valign="top">
+
+<pre>
+Umesh...
+-----------------------
+Name       : Umesh Sai Hanuma Prasad Syamala
+Degree     : B.Tech, CSE (AI & ML)
+Location   : Mangalagiri, Andhra Pradesh, India
+
+Contact
+-----------------------
+Email      : s.umeshsaihanumaprasad@gmail.com
+LinkedIn   : linkedin.com/in/umeshsaihanumaprasad
+GitHub     : github.com/Umesh-369
+
+Languages
+-----------------------
+Programming : Python, Java, JavaScript, TypeScript, SQL
+Core CS     : DSA, OOP, DBMS
+
+GenAI Stack
+-----------------------
+Frameworks  : LangChain, Gemini API, FAISS, Ollama, OpenCV
+Libraries   : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Runtimes    : React, Flask, FastAPI, Node.js, Electron
+
+Awards
+-----------------------
+☕ NPTEL Elite Gold — Java (IIT Kharagpur), Top 5%
+📜 Microsoft & LinkedIn — Career Essentials in GenAI
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💫 About Me
+
+I'm a second-year CSE (AI & ML) undergraduate currently chasing the intersection of **generative AI** and **practical software engineering**. I like building things that leave the notebook and actually run — agents with real filesystem/shell access, RAG pipelines that hold up on messy documents, and tools people can install and use.
 
 ---
 
@@ -41,9 +111,6 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
 ---
 
 ### 💼 Experience
-
-**Summer Research Intern** — VLED Lab, IIT Ropar · May 2026 – Jul 2026
-Contributing to open-source projects involving AI and the MERN stack.
 
 **AI-ML Virtual Intern** — EduSkills (AICTE – National Internship Portal) · Apr 2026 – Jun 2026
 Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by Google for Developers under the India Edu Program. Hands-on experience in model development, data analysis, and generative AI tools.
