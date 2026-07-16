@@ -54,7 +54,6 @@ Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by
 
 - ☕ **NPTEL Elite Gold** — Programming in Java (IIT Kharagpur), 95% consolidated score, Top 5% nationwide
 - 📜 **Microsoft & LinkedIn Certified** — Career Essentials in Generative AI
-- 👥 **Member, Mathematics Club** — organizing academic events and student engagement activities
 
 ---
 
