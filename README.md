@@ -1,8 +1,14 @@
-<h1 align="center">Hi there, I'm Umesh 👋</h1>
+<div align="center">
 
-<p align="center">
-I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:8b5cf6&height=200&section=header&text=Hi%20there,%20I'm%20Umesh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20don't%20just%20learn%20AI%20—%20I%20build%20with%20it&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/Umesh-369">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Agents+with+real+shell+%26+filesystem+access;RAG+pipelines+that+survive+messy+documents;Building+outside+the+notebook%2C+not+just+in+it" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
   <picture>
@@ -12,21 +18,27 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
   </picture>
 </p>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Umesh-369&style=flat-square&color=8b5cf6&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Umesh-369?style=flat-square&color=8b5cf6&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/Umesh-369/Umesh-369?style=flat-square&color=8b5cf6&labelColor=1a1a2e)
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nodejs,flask,fastapi,electron,mongodb,firebase,git,vscode&theme=dark" />
+</p>
 
-**Core CS:** Data Structures · Algorithms · OOP · DBMS
-
-**AI / GenAI:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) FAISS · Ollama ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**AI / GenAI:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) FAISS · Ollama
 
 **Libraries:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) Matplotlib · Seaborn
 
-**Frameworks & Runtimes:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) Express ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) Google Colab ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Core CS:** Data Structures · Algorithms · OOP · DBMS
 
 ---
 
@@ -67,8 +79,36 @@ Completed an 8-week AICTE-recognized virtual internship in AI & ML, supported by
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umesh-369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=cbd5e1" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-369&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" />
+</div>
+
+<div align="center">
+
+<!-- snake animation: auto-generated by .github/workflows/snake.yml on first Actions run -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umesh-369/Umesh-369/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umesh-369/Umesh-369/output/snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Umesh-369/Umesh-369/output/snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ### 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.umeshsaihanumaprasad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeshsaihanumaprasad)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Umesh-369)
+<p align="center">
+  <a href="mailto:s.umeshsaihanumaprasad@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/umeshsaihanumaprasad"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Umesh-369"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:5b21b6&height=120&section=footer" width="100%"/>
