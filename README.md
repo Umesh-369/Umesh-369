@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Umesh 👋</h1>
 
+
 <p align="center">
 I don't just learn AI — I build with it. Whether it's an agent with real shell access to a user's machine or a RAG pipeline that cuts through document clutter, I care about systems that actually work outside a notebook.
 </p>
