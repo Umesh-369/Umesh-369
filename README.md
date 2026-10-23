@@ -43,11 +43,7 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
   <img width="70%" src="https://streak-stats.demolab.com?user=Umesh-369&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-369&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
 
-> Dashboard cards are generated dynamically and may take a moment to load. Language statistics reflect code in repositories, not overall skill level.
 
 ---
 
