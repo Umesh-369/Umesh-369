@@ -29,6 +29,26 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
 
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) Google Colab ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+
+---
+
+### 📊 Developer Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umesh-369&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-369&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Umesh-369&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-369&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+> Dashboard cards are generated dynamically and may take a moment to load. Language statistics reflect code in repositories, not overall skill level.
+
 ---
 
 ### 🚀 Projects
