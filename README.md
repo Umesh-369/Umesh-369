@@ -35,11 +35,6 @@ I don't just learn AI — I build with it. Whether it's an agent with real shell
 ### 📊 Developer Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umesh-369&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-369&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Umesh-369&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
